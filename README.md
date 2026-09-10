@@ -14,14 +14,15 @@ Cada disciplina é identificada pelo código e nome da matéria e contém suas r
 
 ```
 ├── [CODE]subject-name/
-│   ├── activity-01/
-│   ├── activity-02/
-│   └── activity-03/
+│   ├── activity-001/
+│   ├── activity-002/
+|   └── project-001/
 │
 ├── [CODE]subject-name/
-│   ├── activity-01/
-│   └── activity-02/
+│   ├── activity-001/
+│   ├── activity-002/
+│   └── activity-003/
 │
 └── [CODE]subject-name/
-    └── activity-01/
+    └── project-001/
 ```
