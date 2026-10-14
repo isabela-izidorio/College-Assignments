@@ -1,0 +1,16 @@
+name: exercicio_02_theme_sobrescrito
+description: Exercicio 2 de BRADEMO - ThemeData local sobrescrito para amarelo.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+dev_dependencies:
+  flutter_lints: ^6.0.0
