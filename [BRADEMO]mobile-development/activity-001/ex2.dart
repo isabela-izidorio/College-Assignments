@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main(){
   cadastrarFunc(nome: "Henrique", cargo: "Diretor de projetos");

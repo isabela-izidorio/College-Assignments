@@ -1,0 +1,19 @@
+name: exercicio_02_responsividade
+description: Layout que alterna entre coluna em telas estreitas e duas áreas em telas largas usando LayoutBuilder.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

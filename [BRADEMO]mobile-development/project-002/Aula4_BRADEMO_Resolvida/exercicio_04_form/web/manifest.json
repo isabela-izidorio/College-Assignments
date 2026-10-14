@@ -1,0 +1,10 @@
+{
+  "name": "Exercício 4 — Form e SnackBar",
+  "short_name": "exercicio_04_form",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Formulário de nome, telefone e data de nascimento; ao enviar, os dados são exibidos em um SnackBar.",
+  "orientation": "portrait-primary"
+}

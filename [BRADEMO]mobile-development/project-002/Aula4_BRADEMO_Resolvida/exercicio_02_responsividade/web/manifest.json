@@ -1,0 +1,10 @@
+{
+  "name": "Exercício 2 — Responsividade",
+  "short_name": "exercicio_02_responsividade",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Layout que alterna entre coluna em telas estreitas e duas áreas em telas largas usando LayoutBuilder.",
+  "orientation": "portrait-primary"
+}

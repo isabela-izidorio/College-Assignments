@@ -1,0 +1,10 @@
+{
+  "name": "Exercício 1 — GridView",
+  "short_name": "exercicio_01_gridview",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Galeria responsiva em duas colunas com imagens e títulos sobrepostos.",
+  "orientation": "portrait-primary"
+}

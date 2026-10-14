@@ -1,0 +1,10 @@
+{
+  "name": "Exercício 5 — BottomAppBar e FAB",
+  "short_name": "exercicio_05_bottom_bar_fab",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Botão flutuante centralizado com recorte na barra inferior, navegação entre abas e opções que aparecem ao tocar no FAB.",
+  "orientation": "portrait-primary"
+}
